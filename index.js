@@ -20,3 +20,6 @@ const shortGreeting = `Welcome, ${currentUser}`;
 
 'Edsger Dijkstra' [14];
 //=> "a"
+
+'Edsger Dijkstra' .slice();
+//=> "Edsger Dijkstra"
