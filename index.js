@@ -5,7 +5,7 @@ const welcomeMessage = `Welcome to Flatbook, ${currentUser}!`;
 
 const excitedWelcomeMessage = welcomeMessage.toUpperCase();
 
-const shortGreeting = `Welcome, ${currentUser}`;
+const shortGreeting = `Welcome, ${currentUser .slice (0, 1)}!`;
 
 'Edsger Dijkstra'[0];
 //=> "E"
@@ -31,5 +31,3 @@ const shortGreeting = `Welcome, ${currentUser}`;
 //=> "Eds"
 
 currentUser.slice(0, 1);
-
-
