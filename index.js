@@ -11,3 +11,12 @@ const shortGreeting = `Welcome, ${currentUser}`;
 //=> "E"
 
 'Edsger Dijkstra' .charAt(0);
+
+'Edsger Dijkstra' .length;
+//=>15
+
+'Edsger Dijkstra' [15];
+// => undefined
+
+'Edsger Dijkstra' [14];
+//=> "a"
