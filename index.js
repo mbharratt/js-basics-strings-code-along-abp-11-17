@@ -31,3 +31,5 @@ const shortGreeting = `Welcome, ${currentUser}`;
 //=> "Eds"
 
 currentUser.slice(0, 1);
+
+
