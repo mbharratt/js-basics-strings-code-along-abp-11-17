@@ -29,3 +29,5 @@ const shortGreeting = `Welcome, ${currentUser}`;
 
 'Edsger Dijkstra' .slice(0, 3);
 //=> "Eds"
+
+currentUser.slice(0, 1);
