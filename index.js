@@ -1,4 +1,4 @@
 // Write your code in this file!
-const currentUser = 'Melissa Bharratt';
+const currentUser = 'Grace Hopper';
 
 cont welcomeMessage = ' Welcome to Flatbook, ';
